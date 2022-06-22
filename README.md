@@ -1,6 +1,9 @@
 ### EclipseWare
 Lightweight lua level 7 executor made by Eclipse!#6582
 
+### Website
+https://www.eclipses.pw/
+
 ### Discord
 https://discord.gg/xKFt8yFBcY
 
