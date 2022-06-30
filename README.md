@@ -7,7 +7,7 @@ https://www.eclipses.pw/
 ### Download
 https://github.com/EclipsesDev/EclipseWare/releases/
 
-### Discord
+### Discord Support
 https://discord.gg/xKFt8yFBcY
 
 ### Preview
