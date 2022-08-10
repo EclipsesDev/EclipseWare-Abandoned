@@ -1,9 +1,6 @@
 ### EclipseWare
 Lightweight lua level 7 executor made by Eclipse!#6582
 
-### Website
-https://www.eclipses.pw/
-
 ### Download
 https://github.com/EclipsesDev/EclipseWare/releases/
 
@@ -18,3 +15,6 @@ https://discord.gg/xKFt8yFBcY
 No it doesn't, makesure to turn off anti virus because it could result
 anti virus false detection and you can't use the executor, it is completely
 safe so don't worry.
+
+### Latest version
+v1.3 ( on the way to v1.4 )
