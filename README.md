@@ -1,5 +1,6 @@
-### EclipseWare
-Lightweight lua level 8 executor made by Eclipse!#6582
+### What is EclipseWare?
+It is a lightweight lua level 8 executor that is equip with hookFunction, drawingLib.
+And also our exploit support DarkHub, OwlHub & More!
 
 ### Download
 https://github.com/EclipsesDev/EclipseWare/releases/
