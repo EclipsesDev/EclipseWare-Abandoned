@@ -20,4 +20,4 @@ safe so don't worry.
 v1.4 [ BETA ]
 
 ### API
-- WeAreDevs ( Custom API Coming Soon )
+WeAreDevs ( Custom API Coming Soon )
