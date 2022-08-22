@@ -8,9 +8,9 @@ https://github.com/EclipsesDev/EclipseWare/releases/
 ### Discord Support
 https://discord.me/eclipseware
 
-### Preview ( OLD VERSION IMAGE, THE LATEST VERSION HAS BETTER UI )
+### Preview v1.4 BETA
 
-![EclipseWare v1 1](https://user-images.githubusercontent.com/99494277/175281322-949e9938-2a47-41c2-bba1-32dff80265ae.png)
+![EclipseLogo](https://user-images.githubusercontent.com/99494277/185900491-ed75e5a7-c443-481f-8273-d8776476a1d5.jpg)
 
 ### Is our Exploit have virus?
 No it doesn't, makesure to turn off anti virus because it could result
