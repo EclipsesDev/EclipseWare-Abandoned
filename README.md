@@ -10,7 +10,7 @@ https://discord.me/eclipseware
 
 ### Preview v1.4 BETA
 
-![EclipseLogo](https://user-images.githubusercontent.com/99494277/185900491-ed75e5a7-c443-481f-8273-d8776476a1d5.jpg)
+![eclipseware beta v1 4](https://user-images.githubusercontent.com/99494277/185900591-0e64b229-6a81-4499-a3e1-37d32e8b0a22.png)
 
 ### Is our Exploit have virus?
 No it doesn't, makesure to turn off anti virus because it could result
