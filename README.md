@@ -21,7 +21,7 @@ safe so don't worry.
 v1.4 [ BETA ]
 
 ### API
-WeAreDevs ( Custom API Coming Soon )
+WeAreDevs
 
 ### Open Source Code?
 EclipseWare is not a open source executor but don't worry it is 100% safe, we have decent user you may ask them if it is safe or not...
