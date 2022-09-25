@@ -1,6 +1,6 @@
 ### What is EclipseWare?
-It is a lightweight lua level 8 executor that is equip with hookFunction, drawingLib.
-And also our exploit support DarkHub, OwlHub & More!
+It is a lightweight lua level 8 executor and, 
+our exploit support DarkHub, OwlHub & More!
 
 ### Download
 https://github.com/EclipsesDev/EclipseWare/releases/
@@ -8,7 +8,7 @@ https://github.com/EclipsesDev/EclipseWare/releases/
 ### Discord Support
 https://discord.me/eclipseware
 
-### Preview v1.4 BETA
+### Preview v1.4.1
 
 ![eclipseware beta v1 4](https://user-images.githubusercontent.com/99494277/185900591-0e64b229-6a81-4499-a3e1-37d32e8b0a22.png)
 
@@ -18,10 +18,10 @@ anti virus false detection and you can't use the executor, it is completely
 safe so don't worry.
 
 ### Latest version
-v1.4 [ BETA ]
+v1.4.1
 
 ### API
-WeAreDevs
+WeAreDevs (https://wearedevs.net/d/Exploit%20API)
 
 ### Open Source Code?
-EclipseWare is not a open source executor but don't worry it is 100% safe, we have decent user you may ask them if it is safe or not...
+Yes, https://github.com/EclipsesDev/EclipseWare-Source
