@@ -15,12 +15,19 @@ https://discord.me/eclipseware
 ### Instruction to use EclipseWare Exploit!
 
 ・Download EclipseWare in and disable your antivirus. (example: windows defender, avast, malwarebytes, etc)
+
 ・unzip rar File (Makesure you have winrar)
+
 ・open EclipseWare File
+
 ・Join any roblox games
+
 ・Open EclipseWare.exe
+
 ・You will then be greeted with a script executor. After executor loaded click the inject button (button looks like a syringe).
+
 ・And then paste your script at the current textbox
+
 ・Then you can execute the script, to execute you can press the execute button (button looks like play button)
 
 ### Is our Exploit have virus?
