@@ -1,3 +1,5 @@
+### THIS PROJECT HAS BEEN ABANDONED AND WILL RECEIVED NO UPDATE!
+
 ### What is EclipseWare?
 It is a lightweight lua level 8 executor and, 
 our exploit support DarkHub, OwlHub & More!
