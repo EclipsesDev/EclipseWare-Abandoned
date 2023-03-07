@@ -44,4 +44,4 @@ v1.4.1 BETA
 WeAreDevs (https://wearedevs.net/d/Exploit%20API)
 
 ### Open Source Code?
-Yes, https://github.com/EclipsesDev/EclipseWare-Source
+-
